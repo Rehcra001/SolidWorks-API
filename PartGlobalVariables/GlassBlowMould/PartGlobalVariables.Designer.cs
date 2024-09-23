@@ -67,7 +67,7 @@
             filePathTextBox.Size = new Size(434, 23);
             filePathTextBox.TabIndex = 2;
             // 
-            // glassBlowMouldForm
+            // PartGlobalVariables
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -75,9 +75,9 @@
             Controls.Add(filePathTextBox);
             Controls.Add(rebuildButton);
             Controls.Add(OpenButton);
-            Name = "glassBlowMouldForm";
+            Name = "PartGlobalVariables";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Glass Blow Mould";
+            Text = "Part Global Variables";
             ResumeLayout(false);
             PerformLayout();
         }
