@@ -11,4 +11,5 @@ equation name.
 
 Change which ever value you want and click rebuild to rebuild in SolidWorks
 
-![image](https://github.com/user-attachments/assets/4a117460-103d-4884-a905-ecb0187e591d)
+![image](https://github.com/user-attachments/assets/0f6716c5-fffc-4cb1-801e-3382b0adeeb4)
+
