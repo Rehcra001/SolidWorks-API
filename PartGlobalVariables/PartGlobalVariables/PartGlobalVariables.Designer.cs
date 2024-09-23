@@ -1,4 +1,4 @@
-﻿namespace GlassBlowMould
+﻿namespace PartGlobalVariable
 {
     partial class PartGlobalVariables
     {

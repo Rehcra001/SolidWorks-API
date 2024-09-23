@@ -1,6 +1,6 @@
 ﻿using SolidWorks.Interop.sldworks;
 
-namespace GlassBlowMould
+namespace PartGlobalVariable
 {
     internal class SolidWorksSingleton
     {
