@@ -9,4 +9,4 @@ This app will read in all global variables of the selected part
 into text boxes. Each text box label will show the Global variable 
 equation name.
 
-Change which ever value you want and click rebuild
+Change which ever value you want and click rebuild to rebuild in SolidWorks
